@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stundenplan/static/css/main.d24afaa1.css",
+    "main.js": "/Stundenplan/static/js/main.6974dbf6.js",
+    "static/js/787.1fe14e31.chunk.js": "/Stundenplan/static/js/787.1fe14e31.chunk.js",
+    "index.html": "/Stundenplan/index.html",
+    "main.d24afaa1.css.map": "/Stundenplan/static/css/main.d24afaa1.css.map",
+    "main.6974dbf6.js.map": "/Stundenplan/static/js/main.6974dbf6.js.map",
+    "787.1fe14e31.chunk.js.map": "/Stundenplan/static/js/787.1fe14e31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24afaa1.css",
+    "static/js/main.6974dbf6.js"
+  ]
+}
